@@ -13,7 +13,7 @@ During my undergrad, I was lucky enough to dive into AI research as an research 
 
 I’m passionate about **Open-endness AI**, especially through *Self-Evolving Agents*. I believe it's an essential property of any ASI system. I also keep a close eye on non-autoregressive approaches like *Diffusion LLMs* and *Neuro-Symbolic Learning and Reasoning*.
 
-If you share interests in these directions — I would be genuinely excited to connect, discuss ideas, and explore potential collaborations. (๑¯∀¯๑)
+If you share interests in these directions — I would be genuinely excited to connect, discuss ideas, and explore potential collaborations. (๑¯∀¯๑).
 
 
 # Recent News 
